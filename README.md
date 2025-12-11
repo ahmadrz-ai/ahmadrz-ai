@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Raza</h1>
 <h3 align="center">AI Specialist | Google Colab Projects, Model Training & Deployment I build reproducible Google Colab projects, train models, and deploy shareable demos. I completed Google x Kaggle GenAI training and built production-ready Colab notebooks for clients. Fast delivery, clean code, and clear documentation included.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrz-ai&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadrz-ai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadrz-ai" alt="ahmadrz-ai" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadrz-ai&label=Profile%20views&color=0e75b6&style=flat" alt="    ahmadrz-ai" /> </p>
 
 - 🔭 I’m currently working on **Autonomous AI Agents & RAG Pipelines**
 
@@ -32,5 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ahmadrz.ai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ahmadrz.ai" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadrz-ai&show_icons=true&locale=en&layout=compact" alt="ahmadrz-ai" /></p>
